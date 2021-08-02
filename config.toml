@@ -76,7 +76,7 @@ enableEmoji = true
   
  
     [[params.social]]
-      icon      = "email" # icon name without the 'fa-'
+      icon      = "envelope" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "fmusili92@gmail.com"
       
