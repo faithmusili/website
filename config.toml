@@ -77,8 +77,8 @@ enableEmoji = true
  
     [[params.social]]
       icon      = "envelope" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "fmusili92@gmail.com"
+      icon_pack = "fas"
+      url       = "https://mail.google.com/"
       
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
@@ -124,13 +124,12 @@ enableEmoji = true
     url = "/talk/"
     weight = 4
     
-  # Configure footer  
-
-  [[menu.footer]]
+    [[menu.header]]
     name = "Contact"
     title = "Contact form"
     url = "/contact/"
-    weight = 1
+    weight = 5
+
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
