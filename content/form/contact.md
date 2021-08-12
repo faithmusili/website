@@ -1,7 +1,7 @@
 ---
-title: Contact
+title: Hi there
 name: Contact Us Form
-description: ""
+description: "This form is for contacting me about speaking engagements or opportunities to work together. This is NOT a form for requesting help."
 date: 2019-02-25T13:38:41-06:00
 draft: true
 url: contact

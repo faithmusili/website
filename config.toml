@@ -28,8 +28,7 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "RStudio"
-  orgLocal = "Anywhere"
+  orgName = "Faith Musili"
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
@@ -75,12 +74,7 @@ enableEmoji = true
   # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
   
  
-    [[params.social]]
-      icon      = "envelope" # icon name without the 'fa-'
-      icon_pack = "fas"
-      url       = "https://mail.google.com/"
-      
-  [[params.social]]
+[[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://github.com/faithmusili"
@@ -96,7 +90,11 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://www.linkedin.com/in/faith-musili-8a9b61b7/"
 
-
+  [[params.social]]
+      icon      = "orcid" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://orcid.org/0000-0003-4141-5440"
+      
 [taxonomies]
   category = "categories"
   series = "series"
