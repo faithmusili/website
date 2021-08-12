@@ -1,7 +1,7 @@
 ---
-title: A Project Portfolio To Grow
-description: "Give your projects a place to live online."
-author: "The R Markdown Team @RStudio"
+title: Shiny apps
+description: "A list of some shiny dashboards I have co-developed as part of a team or individually."
+author: "Faith Musili"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: false
@@ -10,12 +10,10 @@ layout: list-grid # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: A Sidebar for Your Projects
+  title: Shiny apps
   description: |
-    Projects can be anything!
-    Check out the _index.md file in the /project folder 
-    to edit this content.
-  author: "The R Markdown Team @RStudio"
+    A list of some shiny dashboards I have co-developed as part of a team or developed individually
+  author: "Faith Musili"
   text_link_label: ""
   text_link_url: ""
   show_sidebar_adunit: false # show ad container
@@ -27,7 +25,7 @@ cascade:
   show_disqus_comments: false # see disqusShortname in site config
   # for single-sidebar layout only
   sidebar:
-    text_link_label: View all projects
+    text_link_label: View all shiny apps
     text_link_url: /project/
     show_sidebar_adunit: false # show ad container
 ---
