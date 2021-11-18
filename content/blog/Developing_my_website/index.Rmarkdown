@@ -1,0 +1,23 @@
+---
+title: "Developing my personal website"
+excerpt: "Dr. Alison Hill's talk on 'Introduce yourself online using blogdown and Hugo Apèro' showed me how easy creating a personal website was."
+date: 2021-08-12
+author: "Faith Musili"
+draft: false
+# layout options: single, single-sidebar
+layout: single
+categories:
+- blogdown
+- Hugo Apèro
+- R-Ladies
+---
+
+"What do you do?", this is a common question I have received countless times. I have had to explain my roles to individuals who did not know that data analysis and data science are careers. In Kenyan context and more so in rural areas where I was born and raised, data science and GIS are jobs that are still new to many. Don't get me wrong, I am passionate when explaining my job, its diverse application across sectors and more so how evidence-based decision making is important in every aspect. 
+
+In the growing digital space and the revolutionary technological breakthroughs, all aspects of remote sensing, GIS and data analysis  are evolving. It is therefore key to keep up and be innovative. I believe this personal website will not only show others what am working on but will also give me a chance to network with others and  better the products.
+
+The main reason I procrastinated getting started on the website, was because R was my first programming language to learn and I don't have a programming background. Websites are traditionally created using languages like java, HTML, CSS among others and for someone without a programming background, this scares you from working on your personal website. 
+
+Some months ago, during my catch-ups on twitter, I saw a meetup post by R-Ladies Tunis on "Introduce yourself online with blogdown & Hugo Apéro - by Dr. Alison Hill". This caught my eye and revived my quest to have a personal website. Though my plans  to attend the session failed, I later caught up with the You Tube recording. In this talk, Dr. Alison explains the steps to get started and how to customize to personal preference. Her step-by-step explanations are thorough and simple making it easy to follow through. This website has been created fully using R by following the steps outlined in the recording. The syntax is easy as Dr. Alison did the heavy lifting while and creating the package. Thank you Alison and R-Ladies Tunis for organizing the meetup.
+
+For anyone who plans to create their personal website, check the recording. I hope that this personal website will help grow my network and better my skills through feedback. 
