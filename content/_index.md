@@ -1,9 +1,9 @@
 ---
 title: "Faith Musili"
 
-subtitle: "Senior data analyst @ Norwegian Refugee Council - East Africa & Yemen regional office"
+subtitle: "Senior data analyst at Norwegian Refugee Council - East Africa & Yemen regional office"
 
-description: "I am a data analyst, R Shiny dashboards developer, GIS and remote sensing analyst . I use R and Shiny for spatial and non-spatial data analytics and visualization. I am also proficient with GIS mapping softwares like QGIS and ArcGis. I am a co-organiser of R-Ladies Nairobi - A R user community in Nairobi, Kenya which aims to promote diversity in the rstats community and is part of R-Ladies global community."
+description: "I specialize in data analysis, crafting dynamic R Shiny dashboards, and conducting GIS and remote sensing analysis. My expertise spans spatial and non-spatial data analytics, brought to life through R and Shiny. I possess advanced proficiency in GIS mapping tools like QGIS and ArcGIS. As a co-organizer of R-Ladies Nairobi, I contribute to a vibrant R user community fostering diversity within the global R-Ladies network"
 
 date: 2019-02-18T12:27:33-06:00
 
